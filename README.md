@@ -1,6 +1,6 @@
 ````md id="9syg2m"
 # World Explorer
-World Explorer is a modern Next.js application that allows users to explore countries around the world using real API data.
+World Explorer is a Next.js application that allows users to explore countries around the world using real API data.
 
 ## Features
 - App Router
