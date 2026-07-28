@@ -21,6 +21,10 @@ World Explorer is a modern **Next.js application** that allows users to explore 
 - Tailwind CSS
 - REST Countries API
 
+## API Used
+
+**REST Countries API**
+
 ## Getting Started
 
 Follow these steps to run the project locally.
